@@ -24,18 +24,13 @@ built using Dart fundamentals.
 - String Interpolation
 
 ## 📸 Output Screenshots
-Screenshots
-Product Display & Adding to Cart
-![screenshot1](screenshots/project_dart_basics_screenshot_1.png)
+![screenshot1](project_dart_basics_screenshot_1.png)
 
-Cart Summary & Bill
-![screenshot2](screenshots/project_dart_basics_screenshot_2.png)
+![screenshot2](project_dart_basics_screenshot_2.png)
 
-Final Invoice with Discount & GST
-![screenshot3](screenshots/project_dart_basics_screenshot_3.png)
+![screenshot3](project_dart_basics_screenshot_3.png)
 
-Exception Handling
-![screenshot4](screenshots/project_dart_basics_screenshot_4.png)
+![screenshot4](project_dart_basics_screenshot_4.png)
 
 ## How to Run
 1. Install Dart from https://dart.dev
